@@ -50,7 +50,7 @@ This course contains lots of challenges for C++, each challenge is a small C++ p
 |     037 | 🎯 Swap Two Numbers Without Temporary Variable           | ★★☆          | <a target='_blank' href='https://labex.io/labs/113362'>Start Challenge</a> |
 |     038 | 🎯 Custom Subtraction Function                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298174'>Start Challenge</a> |
 |     039 | 🎯 Output the Square Root                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298188'>Start Challenge</a> |
-|     040 | 🎯 Accessing Arrays                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298164'>Start Challenge</a> |
+|     040 | 🎯 Access Two-Dimensional Array Elements                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298164'>Start Challenge</a> |
 |     041 | 🎯 Check Alphabet Validity                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/113973'>Start Challenge</a> |
 |     042 | 🎯 Rewrite the Strcpy Function                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/340347'>Start Challenge</a> |
 |     043 | 🎯 Converting String to Uppercase                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/113996'>Start Challenge</a> |
@@ -95,7 +95,7 @@ This course contains lots of challenges for C++, each challenge is a small C++ p
 |     082 | 🎯 Character Frequency Counter                           | ★★☆          | <a target='_blank' href='https://labex.io/labs/114000'>Start Challenge</a> |
 |     083 | 🎯 Finding Factors Of A Given Number                     | ★★★          | <a target='_blank' href='https://labex.io/labs/114023'>Start Challenge</a> |
 |     084 | 🎯 Calculating the GCD of Two Numbers                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/114044'>Start Challenge</a> |
-|     085 | 🎯 Determine If Number Is Prime                          | ★★★          | <a target='_blank' href='https://labex.io/labs/114108'>Start Challenge</a> |
+|     085 | 🎯 Verify Prime Number Status Using C++                  | ★★★          | <a target='_blank' href='https://labex.io/labs/114108'>Start Challenge</a> |
 |     086 | 🎯 Finding Prime Numbers Between Intervals               | ★★★          | <a target='_blank' href='https://labex.io/labs/114110'>Start Challenge</a> |
 |     087 | 🎯 Checking Whether a Number is Armstrong                | ★★★          | <a target='_blank' href='https://labex.io/labs/113947'>Start Challenge</a> |
 |     088 | 🎯 Implementing Armstrong Number Checker                 | ★★★          | <a target='_blank' href='https://labex.io/labs/113948'>Start Challenge</a> |
@@ -114,7 +114,7 @@ This course contains lots of challenges for C++, each challenge is a small C++ p
 |     101 | 🎯 Addition with Function Templates                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/113925'>Start Challenge</a> |
 |     102 | 🎯 Simple Calculator Program with Switch                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/113968'>Start Challenge</a> |
 |     103 | 🎯 Arithmetic Operations in C++                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/114069'>Start Challenge</a> |
-|     104 | 🎯 Array Copying                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298165'>Start Challenge</a> |
+|     104 | 🎯 Copy Array Contents in C                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298165'>Start Challenge</a> |
 |     105 | 🎯 Checking Number Range Using Loop and Boolean          | ★★☆          | <a target='_blank' href='https://labex.io/labs/113981'>Start Challenge</a> |
 |     106 | 🎯 Find Greatest Multiple Below 250                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/114053'>Start Challenge</a> |
 |     107 | 🎯 Exclude Multiples Of Three                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/114091'>Start Challenge</a> |
@@ -163,11 +163,9 @@ This course contains lots of challenges for C++, each challenge is a small C++ p
 |     150 | 🎯 Complex Number Division                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/113990'>Start Challenge</a> |
 |     151 | 🎯 Convert Keyboard Input to Uppercase File              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298172'>Start Challenge</a> |
 |     152 | 🎯 Fix C++14 String Trimming Bug                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/249172'>Start Challenge</a> |
-|     153 | 🎯 Creating a Simple Docker Container in C++ (Challen... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299443'>Start Challenge</a> |
-|     154 | 🎯 Singleton Logger Implementation                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/243665'>Start Challenge</a> |
-|     155 | 🎯 Creating the Solar System in OpenGL (Challenge)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299444'>Start Challenge</a> |
-|     156 | 🎯 Implement a simple thread pool                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298180'>Start Challenge</a> |
-|     157 | 🎯 Bubble Sort 10 Integers in C++                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298167'>Start Challenge</a> |
+|     153 | 🎯 Singleton Logger Implementation                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/243665'>Start Challenge</a> |
+|     154 | 🎯 Implement a simple thread pool                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298180'>Start Challenge</a> |
+|     155 | 🎯 Bubble Sort 10 Integers in C++                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298167'>Start Challenge</a> |
 
 ## More
 

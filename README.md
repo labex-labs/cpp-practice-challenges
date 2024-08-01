@@ -93,7 +93,7 @@ This course contains lots of challenges for C++, each challenge is a small C++ p
 |     080 | 🎯 Array Element Multiplication                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/114087'>Start Challenge</a> |
 |     081 | 🎯 Determine Perfect Number Existence                    | ★★★          | <a target='_blank' href='https://labex.io/labs/113987'>Start Challenge</a> |
 |     082 | 🎯 Character Frequency Counter                           | ★★☆          | <a target='_blank' href='https://labex.io/labs/114000'>Start Challenge</a> |
-|     083 | 🎯 Finding Factors Of A Given Number                     | ★★★          | <a target='_blank' href='https://labex.io/labs/114023'>Start Challenge</a> |
+|     083 | 🎯 Finding Factors of A Given Number                     | ★★★          | <a target='_blank' href='https://labex.io/labs/114023'>Start Challenge</a> |
 |     084 | 🎯 Calculating the GCD of Two Numbers                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/114044'>Start Challenge</a> |
 |     085 | 🎯 Verify Prime Number Status Using C++                  | ★★★          | <a target='_blank' href='https://labex.io/labs/114108'>Start Challenge</a> |
 |     086 | 🎯 Finding Prime Numbers Between Intervals               | ★★★          | <a target='_blank' href='https://labex.io/labs/114110'>Start Challenge</a> |
@@ -117,7 +117,7 @@ This course contains lots of challenges for C++, each challenge is a small C++ p
 |     104 | 🎯 Copy Array Contents in C                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298165'>Start Challenge</a> |
 |     105 | 🎯 Checking Number Range Using Loop and Boolean          | ★★☆          | <a target='_blank' href='https://labex.io/labs/113981'>Start Challenge</a> |
 |     106 | 🎯 Find Greatest Multiple Below 250                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/114053'>Start Challenge</a> |
-|     107 | 🎯 Exclude Multiples Of Three                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/114091'>Start Challenge</a> |
+|     107 | 🎯 Exclude Multiples of Three                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/114091'>Start Challenge</a> |
 |     108 | 🎯 Skipping a Specific Number                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/114129'>Start Challenge</a> |
 |     109 | 🎯 Stopping at a Specific Number                         | ★★★          | <a target='_blank' href='https://labex.io/labs/114131'>Start Challenge</a> |
 |     110 | 🎯 Calculating the LCM of Two Numbers                    | ★★☆          | <a target='_blank' href='https://labex.io/labs/114071'>Start Challenge</a> |

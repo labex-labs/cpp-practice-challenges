@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                |
-|---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                |
+|---------|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 |     001 | 🎯 Calculating the Average Student Score                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculating-the-average-student-score-326600'>Start Challenge</a>               |
 |     002 | 🎯 Output the Encrypted Letters                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-output-the-encrypted-letters-298185'>Start Challenge</a>                        |
 |     003 | 🎯 Calculate Factorial Using C++ For Loop                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculate-factorial-using-c-for-loop-298168'>Start Challenge</a>                |
@@ -74,10 +74,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     045 | 🎯 Find the Greatest Element in an Array                 | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-find-the-greatest-element-in-an-array-114031'>Start Challenge</a>               |
 |     046 | 🎯 Circle Area Calculation Function                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-circle-area-calculation-function-113931'>Start Challenge</a>                    |
 |     047 | 🎯 Using C++ Namespace Demonstrations                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-using-c-namespace-demonstrations-113956'>Start Challenge</a>                    |
-|     048 | 🎯 Calculate Simple Interest With Function               | ★★★          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculate-simple-interest-with-function-113964'>Start Challenge</a>             |
+|     048 | 🎯 Calculate Simple Interest with Function               | ★★★          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculate-simple-interest-with-function-113964'>Start Challenge</a>             |
 |     049 | 🎯 Calculate Selling Price Profit                        | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculate-selling-price-profit-114029'>Start Challenge</a>                      |
 |     050 | 🎯 Demonstrating Function Overloading with Parameters    | ★★★          | <a target='_blank' href='https://labex.io/tutorials/cpp-demonstrating-function-overloading-with-parameters-114040'>Start Challenge</a>  |
-|     051 | 🎯 Function Overloading With Different Parameter Type... | ★★★          | <a target='_blank' href='https://labex.io/tutorials/cpp-function-overloading-with-different-parameter-types-114042'>Start Challenge</a> |
+|     051 | 🎯 Function Overloading with Different Parameter Type... | ★★★          | <a target='_blank' href='https://labex.io/tutorials/cpp-function-overloading-with-different-parameter-types-114042'>Start Challenge</a> |
 |     052 | 🎯 The Using Directive in Namespaces                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-the-using-directive-in-namespaces-113368'>Start Challenge</a>                   |
 |     053 | 🎯 Use Regular Expressions To Match Email Addresses      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-use-regular-expressions-to-match-email-addresses-298192'>Start Challenge</a>    |
 |     054 | 🎯 Output the Last Serial Number                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-output-the-last-serial-number-298186'>Start Challenge</a>                       |
@@ -151,7 +151,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     122 | 🎯 Compute Standard Deviation of Array                   | ★★★          | <a target='_blank' href='https://labex.io/tutorials/cpp-compute-standard-deviation-of-array-113992'>Start Challenge</a>                 |
 |     123 | 🎯 Number of 1's in Binary                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-number-of-1-s-in-binary-298182'>Start Challenge</a>                             |
 |     124 | 🎯 Calculation of the Average Using a Fold Expression    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculation-of-the-average-using-a-fold-expression-298170'>Start Challenge</a>  |
-|     125 | 🎯 Adding Complex Numbers With Friend Function           | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-adding-complex-numbers-with-friend-function-113921'>Start Challenge</a>         |
+|     125 | 🎯 Adding Complex Numbers with Friend Function           | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-adding-complex-numbers-with-friend-function-113921'>Start Challenge</a>         |
 |     126 | 🎯 Implementing Complex Number Addition                  | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-implementing-complex-number-addition-113929'>Start Challenge</a>                |
 |     127 | 🎯 Calculate Area of Two Triangles                       | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculate-area-of-two-triangles-113941'>Start Challenge</a>                     |
 |     128 | 🎯 Calculating Areas of Triangle and Rectangle           | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/cpp-calculating-areas-of-triangle-and-rectangle-113945'>Start Challenge</a>         |
